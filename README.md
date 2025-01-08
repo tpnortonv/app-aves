@@ -25,5 +25,5 @@
    Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/<tu-usuario>/app-aves.git
+   git clone https://github.com/tpnortonv/app-aves
 
